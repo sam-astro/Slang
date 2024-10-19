@@ -1,7 +1,8 @@
-<img src="https://raw.githubusercontent.com/sam-astro/Z-Sharp/master/ExtraResources/ZS-Gem-Icon-Small.png"/><img src="https://raw.githubusercontent.com/sam-astro/Z-Sharp/master/ExtraResources/ZS-Logo-Light-Small.png"/>
+<img src="https://github.com/CleanCode-developer/Z-Sharp/blob/master/Icon.png?raw=true"/>
 
-> Z-Sharp is no longer in development! This project was never meant to go beyond the scope of a simple thing I could make pong in, yet people continue to ask for features and fixes, and I continue to oblige. So sadly, even though this was a cool project in which I learned a lot, it will be ending now. I will eventually make some docs and standards for the syntax, and will still leave this repository open. This way anybody can make their own interpreter or compiler for it. I will also still accept pull requests for any changes to this repository.
-
+> Since sam-astro won't update Z-Sharp, I made the decision of take caring the Z-Sharp.
+> this language is a 2-year old or 3-year old and has not have any full update.
+> my goals are to add a 3D engine, add more tools for game devs also add a documentation and Website.
 ## Introduction
 Z-Sharp is a custom programming language I made because I don't like c++ very much (Z-Sharp's interpreter is written in c++ though). Z-Sharp scripts have the file extension .ZS. The base syntax and formatting I would say is quite similar to C# or Python, but differs as task complexity increases. It also has support for graphics using SDL2.
 
